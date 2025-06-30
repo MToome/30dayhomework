@@ -1,7 +1,7 @@
 <x-layout>
-
-    <x-nav>
-    </x-nav>
+    <x-slot:heading>
+        About
+    </x-slot:heading>
 
     <h1>About</h1>
 

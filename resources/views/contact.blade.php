@@ -1,7 +1,7 @@
 <x-layout>
-
-    <x-nav>
-    </x-nav>
+    <x-slot:heading>
+        Contact
+    </x-slot:heading>
 
     <h1>Contact</h1>
 
