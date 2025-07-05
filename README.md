@@ -4,3 +4,5 @@ kui muutuja ette panna koolon siis see annab märku programmile, et selle väär
 ```php
 :a="true"
 ```
+
+namespace- koodi organiseerimiseks
