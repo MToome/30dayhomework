@@ -6,3 +6,6 @@ kui muutuja ette panna koolon siis see annab märku programmile, et selle väär
 ```
 
 namespace- koodi organiseerimiseks
+
+
+N+1 problem- iga päringuga tuleb lisa päring
