@@ -16,3 +16,5 @@ Muuta eelseadistatud vaateid või raamistiku
 ```
 php artisan vendor:publish
 ```
+
+CRUD - create, read, update and delete
