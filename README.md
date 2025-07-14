@@ -5,6 +5,8 @@ kui muutuja ette panna koolon siis see annab märku programmile, et selle väär
 :a="true"
 ```
 
+mitu kursorit alt+klick
+
 namespace- koodi organiseerimiseks
 
 
