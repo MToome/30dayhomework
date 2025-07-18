@@ -36,8 +36,8 @@
         </div>
 
         <div class="mt-6 flex items-center justify-end gap-x-6">
-            <button type="button" class="text-sm/6 font-semibold text-gray-900">Cancel</button>
-            <x-form-button>Save</x-form-button>
+            <button type="button" class="text-sm font-semibold leading-6 text-gray-900">Cancel</button>
+            <x-form-button >Save</x-form-button>
         </div>
     </form>
 
