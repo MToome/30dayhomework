@@ -1,6 +1,10 @@
+homework https://laracasts.com/series/30-days-to-learn-laravel-11
+
 Day 20 at https://github.com/MToome/30dayoflaravelAuthentication
 
-homework https://laracasts.com/series/30-days-to-learn-laravel-11
+Day 27-30 at https://github.com/MToome/pixel-positions
+
+
 
 kui muutuja ette panna koolon siis see annab märku programmile, et selle väärtust kohelda kui expression mitte string
 ```php
